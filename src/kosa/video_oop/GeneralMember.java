@@ -70,6 +70,4 @@ public class GeneralMember {
     public void setVideo(Video video) {
         this.video = video;
     }
-
-
 }
